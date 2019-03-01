@@ -6,5 +6,3 @@ main()
 printf("hello-world");
 getch();
 }
-output:
-hello-world
